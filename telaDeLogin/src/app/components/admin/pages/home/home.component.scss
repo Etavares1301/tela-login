@@ -1,0 +1,8 @@
+@import "~/src/scss/index.scss";
+:host {
+    strong{
+        font-size: 25px;
+        font-weight: 700;
+        color: $vermelho;
+    }
+}
